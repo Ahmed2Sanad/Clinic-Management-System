@@ -5,6 +5,6 @@
 int main()
 {
 	printf("hello sanad");
-	
+	printf("sannnnnnnnnnnnnnnnnnn");
 	
 }
