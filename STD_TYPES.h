@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+//********************************************* 
+//*****   File:   STD_TYPES.h
+//*****   Author: Ahmed Mohamed Sanad
+//***** 
+//*****   Created on 1 Aug, 2023
+//*********************************************
+
+
+
+>>>>>>> version_!
 #ifndef _STD_TYPES_H_
 #define _STD_TYPES_H_
 

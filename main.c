@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+//***************************************** 
+//*****   File:   main.c
+//*****   Author: Ahmed Mohamed Sanad
+//***** 
+//*****   Created on 28 Aug, 2023
+//*****************************************
+
+
+
+>>>>>>> version_!
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -36,7 +48,11 @@ int main()
 		  printf("*****************************************************"); 
 		  while(get_pass !=123 && trial_num>0)
 		   {
+<<<<<<< HEAD
 		      printf(" you have %d- trial to give me the correct pass: ",(trial_num--));
+=======
+		      printf("\n you have %d- trial to give me the correct pass: ",(trial_num--));
+>>>>>>> version_!
 		      scanf("%hu",&get_pass);
 		   
 		   

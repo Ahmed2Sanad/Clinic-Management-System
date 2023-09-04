@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+//**************************************** 
+//*****   File:   func.c
+//*****   Author: Ahmed Mohamed Sanad
+//***** 
+//*****   Created on 28 Aug, 2023
+//****************************************
+
+
+
+>>>>>>> version_!
 
 #include "func.h"
 #include "STD_TYPES.h"
